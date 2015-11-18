@@ -1,0 +1,11 @@
+Smart_Account_ID,Smart_Account_Name,Smart_Account_Description,Domain,Type,Customer_Type,Source,Status,Agreement_Status,Message_to_Creator,Creator_Domain,Contact_Phone,CR_Party_ID,Is_Active,Status_Change_Reason_Code,Requesting_User,Internal_Comments,Account_Type,Created_By,Created_On,Last_Updated_By,Last_Updated_on
+1,TARGET_US,Target Corporation,target.com,Customer,Organization,TRANSACTION,ACTIVE,null,null,Y,888-888-8888,1,1,null,Joe Smith,Retail Enterprise Customer,SA,Tom McKincey,10/10/15,Tom McKincey,10/11/15
+2,VERIZON,Verizon Communications,verizon.com,Partner,Organization,CONVERSION,ACTIVE,null,null,N,800-800-8000,2,1,null,Tom Rogers,Telecom Enterprise Parner,SA,Jill Wagner,10/11/15,Jill Wagner,10/12/15
+3,IKEA_US,Ikea Corporation,ikea.com,Customer,Organization,TRANSACTION,ACTIVE,null,null,Y,877-877-8777,3,1,null,Bill Smith,Retail Enterprise Customer,SA,Tom McKincey,10/12/15,Tom McKincey,10/13/15
+4,ATT,AT & T Communications,att.com,Partner,Organization,CONVERSION,ACTIVE,null,null,N,877-846-8846,4,1,null,Joby George,Telecom Enterprise Parner,SA,Jill Wagner,10/13/15,Jill Wagner,10/14/15
+5,WALMART_US,Walmart Stores Inc.,walmart.com,Customer,Organization,TRANSACTION,ACTIVE,null,null,Y,877-888-4580,5,1,null,Sudheer Kondla,Retail Enterprise Customer,SA,Tom McKincey,10/14/15,Tom McKincey,10/15/15
+6,EBAY_US,eBay Inc,ebay.com,Customer,Organization,TRANSACTION,ACTIVE,null,null,Y,800-453-5604,6,1,null,Law Chang,E-Commerce Enterprise Customer,SA,Jill Wagner,10/15/15,Jill Wagner,10/16/15
+7,CITI_US,Citi Bank N.A,citi.com,Customer,Organization,TRANSACTION,ACTIVE,null,null,Y,800-345-3430,7,1,null,Crystal Wagner,Banking Customer,SA,Tom McKincey,10/16/15,Tom McKincey,10/17/15
+8,DUKE_ENERGY,Duke Energy,duke.com,Customer,Organization,TRANSACTION,INACTIVE,null,null,Y,800-456-5963,8,0,null,Jeniffer Chan,Energy Customer,SA,Tom McKincey,10/17/15,Tom McKincey,10/18/15
+9,COMCAST,Comcast Cable & Communcation,comcast.com,Partner,Organization,CONVERSION,ACTIVE,null,null,N,877-456-7852,9,1,null,Michael T.,Telecom Enterprise Parner,SA,Tom McKincey,10/18/15,Tom McKincey,10/19/15
+10,ABC_CORP,ABC corporation,abc.com,Customer,Individual,TRANSACTION,ACTIVE,null,null,Y,800-333-4564,10,1,null,Antony J.,Individual customer,SA,Jill Wagner,10/19/15,Jill Wagner,10/20/15

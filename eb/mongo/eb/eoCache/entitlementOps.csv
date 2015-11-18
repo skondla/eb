@@ -1,0 +1,46 @@
+Entitlement_Ops_ID,Entitlement_Ops_Name,Entitlement_Ops_Type,Entitlement_Ops_Desc,Entitlement_Class_ID,Status,Created_On,Created_By
+1,Right to Generate Report,Standard,,1,Active,10/10/15,Jill Wagner
+2,Right to View Report,Standard,,1,Active,10/10/15,Jill Wagner
+3,Right to Generate Report,Standard,,2,Active,10/10/15,Jill Wagner
+4,Right to View Report,Standard,,2,Active,10/10/15,Jill Wagner
+5,Right to Ask Questions,Standard,,3,Active,10/10/15,Jill Wagner
+6,Right to Open a Case,Standard,,3,Active,10/10/15,Jill Wagner
+7,Right to Update a Case,Standard,,3,Active,10/10/15,Jill Wagner
+8,Right to Close a Case,Standard,,3,Active,10/10/15,Jill Wagner
+9,Right to Use,Standard,,3,Active,10/10/15,Jill Wagner
+10,Right to Request Collector,Standard,,4,Active,10/10/15,Jill Wagner
+11,Right to Register or Run Collection,Standard,,4,Active,10/10/15,Jill Wagner
+12,Right to View Reports via Portal,Standard,,4,Active,10/10/15,Jill Wagner
+13,Right to Download Reports via API,Standard,,4,Active,10/10/15,Jill Wagner
+14,Right to Get a License Key,Standard,,5,Active,10/10/15,Jill Wagner
+15,Right to Use,Standard,,5,Active,10/10/15,Jill Wagner
+16,Right to Track Compliance,Standard,,6,Active,10/10/15,Jill Wagner
+17,Right to Use,Standard,,6,Active,10/10/15,Jill Wagner
+18,Right to Generate Report,Standard,,7,Active,10/10/15,Jill Wagner
+19,Right to View Report,Standard,,7,Active,10/10/15,Jill Wagner
+20,Right to Return for Credit,Standard,,8,Active,10/10/15,Jill Wagner
+21,Right to Return for Replacement,Standard,,9,Active,10/10/15,Jill Wagner
+22,Right to Return for Repair,Standard,,9,Active,10/10/15,Jill Wagner
+23,Right to Generate Report,Standard,,10,Active,10/10/15,Jill Wagner
+24,Right to View Report,Standard,,10,Active,10/10/15,Jill Wagner
+25,Right to Software Images,Standard,,11,Active,10/10/15,Jill Wagner
+26,Right to Get a License Key,Standard,,12,Active,10/10/15,Jill Wagner
+27,Right to Assign Access,Standard,,12,Active,10/10/15,Jill Wagner
+28,Right to Use,Standard,,12,Active,10/10/15,Jill Wagner
+29,Right to Allocate Quantity,Standard,,13,Active,10/10/15,Jill Wagner
+30,Right to Track Compliance,Standard,,13,Active,10/10/15,Jill Wagner
+31,Right to Use,Standard,,13,Active,10/10/15,Jill Wagner
+32,Right to Use,Standard,,14,Active,10/10/15,Jill Wagner
+33,Right to Ask Questions,Standard,,15,Active,10/10/15,Jill Wagner
+34,Right to Open a Case,Standard,,15,Active,10/10/15,Jill Wagner
+35,Right to Update a Case,Standard,,15,Active,10/10/15,Jill Wagner
+36,Right to Close a Case,Standard,,15,Active,10/10/15,Jill Wagner
+37,Right to Upgrade Software,Standard,,16,Active,10/10/15,Jill Wagner
+38,Right to Software Images,Standard,,16,Active,10/10/15,Jill Wagner
+39,TBD,,,17,Active,10/10/15,Jill Wagner
+40,Right to Move Object (by Serial #),Administrative,,18,Active,10/10/15,Jill Wagner
+41,Right to View Object,Administrative,,18,Active,10/10/15,Jill Wagner
+42,Right to Update Object,Administrative,,18,Active,10/10/15,Jill Wagner
+43,Right to Retire Object,Administrative,,18,Active,10/10/15,Jill Wagner
+44,Right to Deactivate Object,Administrative,,18,Active,10/10/15,Jill Wagner
+45,Right to manager user access,Administrative,,18,,,

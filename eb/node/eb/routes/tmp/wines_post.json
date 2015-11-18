@@ -1,0 +1,43 @@
+ function counterItem(itemID) {
+    var ret = db.counters.findAndModify({query:{_id:itemID}, update:{$inc : {next:1}}, "new":true, upsert:true});
+     return ret.next;
+}
+
+add = {
+	   "itemID": counterItem("wines"),
+       "name" : "Northern Italy Winery",
+        "year" : "2006",
+        "grapes" : "Naples Valley",
+        "country" : "Italy",
+        "region" : "Naples",
+        "description" : "A resurgence of interest in boutique vineyards...",
+        "picture" : "naples_IT.jpg"
+}
+
+db.wines.save(add)
+
+/*
+db.collection('wines', function(err, collection) {
+         collection.remove({'_id': ObjectId("5619ef8c70236d5a2378b735"), {safe:true}, function(err, result) {
+             if (err) {
+                 res.send({'error':'An error has occurred - ' + err});
+             } else {
+                 console.log('' + result + ' document(s) deleted');
+                 res.send(req.body);
+             }
+         });
+    }
+}
+*/
+
+
+//curl -i -X POST host:port/post-file -H "Content-Type: text/xml" --data-binary "@path/to/file"
+
+//C:\Users\Sudhe_000>curl -i -X POST -H 'Content-Type: application/json' -d '{"name": "New Wine", "year": "2009"}' http://192.168.56.121:3000/wines
+
+
+//curl -i -X POST host:port/post-file -H "Content-Type: text/xml" --data-binary "@path/to/file"
+
+
+//curl -i -X POST  http://192.168.56.121:3000/wines -H "Content-Type: application/json"  --data-binary "@C:\Accenture-Cisco\Data Models\load\experiment\wines.js"
+

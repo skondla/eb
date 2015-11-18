@@ -1,0 +1,48 @@
+Virtual_Account_ID,Virtual Account Name,Virtual Account Description,Smart_Account_ID,Default_VA_Flag,Order_Assignable,Status,Parent Virtual Account ID,Is_Active,Created By,Created At,Last Updated By,Last Updated At,Overage,Row_POS,Column_POS
+1,Corporate,Target - Corporate Division,1,Y,Y,ACTIVE,1,1,Tom McKincey,10/10/2015,Tom McKincey,10/10/2015,Y,1,1
+2,Store Operations,Target - Store Operations Division,1,N,Y,ACTIVE,1,1,Tom McKincey,10/10/2015,Tom McKincey,10/10/2015,Y,1,2
+3,IT Division,Target - IT Division Division,1,N,Y,ACTIVE,1,1,Tom McKincey,10/10/2015,Tom McKincey,10/10/2015,Y,1,3
+4,Logistics,Target - Logistics Division,1,N,Y,ACTIVE,1,1,Tom McKincey,10/10/2015,Tom McKincey,10/10/2015,Y,1,4
+5,Corporate,Verizon - Corporate Division,2,Y,Y,ACTIVE,2,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,N,1,1
+6,Store Operations,Verizon - Store Operations Division,2,N,Y,ACTIVE,2,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,N,1,2
+7,IT Division,Verizon - IT Division Division,2,N,Y,ACTIVE,2,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,N,1,3
+8,Logistics,Verizon - Logistics Division,2,N,Y,ACTIVE,2,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,N,1,4
+9,Corporate,IKEA - Corporate Division,3,Y,Y,ACTIVE,3,1,Tom McKincey,10/11/2015,Tom McKincey,10/11/2015,Y,1,1
+10,Store Operations,IKEA  - Store Operations Division,3,N,Y,ACTIVE,3,1,Tom McKincey,10/11/2015,Tom McKincey,10/11/2015,Y,1,2
+11,IT Division,IKEA  - IT Division Division,3,N,Y,ACTIVE,3,1,Tom McKincey,10/11/2015,Tom McKincey,10/11/2015,Y,1,3
+12,Logistics,IKEA  - Logistics Division,3,N,Y,ACTIVE,3,1,Tom McKincey,10/11/2015,Tom McKincey,10/11/2015,Y,1,4
+13,Customer Service,IKEA - Customer Service,3,N,Y,ACTIVE,3,1,Tom McKincey,10/11/2015,Tom McKincey,10/11/2015,Y,1,5
+14,Corporate,ATT - Corporate Division,4,Y,Y,ACTIVE,4,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,N,1,1
+15,Store Operations,ATT - Store Operations Division,4,N,Y,ACTIVE,4,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,N,1,2
+16,IT Division,ATT - IT Division Division,4,N,Y,ACTIVE,4,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,N,1,3
+17,Logistics,ATT - Logistics Division,4,N,Y,ACTIVE,4,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,N,1,4
+18,Corporate,Walmart - Corporate Division,5,Y,Y,ACTIVE,5,1,Tom McKincey,10/11/2015,Tom McKincey,10/11/2015,Y,1,1
+19,Store Operations,Walmart  - Store Operations Division,5,N,Y,ACTIVE,5,1,Tom McKincey,10/11/2015,Tom McKincey,10/11/2015,Y,1,2
+20,IT Division,Walmart  - IT Division Division,5,N,Y,ACTIVE,5,1,Tom McKincey,10/11/2015,Tom McKincey,10/11/2015,Y,1,3
+21,Logistics,Walmart  - Logistics Division,5,N,Y,ACTIVE,5,1,Tom McKincey,10/11/2015,Tom McKincey,10/11/2015,Y,1,4
+22,Customer Service,Walmart - Customer Service,5,N,Y,ACTIVE,5,1,Tom McKincey,10/11/2015,Tom McKincey,10/11/2015,Y,1,5
+23,Corporate,eBay - Corporate Division,6,Y,Y,ACTIVE,6,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,Y,1,1
+24,Store Operations,eBay  - Store Operations Division,6,N,Y,ACTIVE,6,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,Y,1,2
+25,IT Division,eBay  - IT Division Division,6,N,Y,ACTIVE,6,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,Y,1,3
+26,Logistics,eBay  - Logistics Division,6,N,Y,ACTIVE,6,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,Y,1,4
+27,Customer Service,eBay - Customer Service,6,N,Y,ACTIVE,6,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,N,1,5
+28,Corporate,Citi Bank - Corporate Division,7,Y,Y,ACTIVE,7,1,Tom McKincey,10/11/2015,Tom McKincey,10/11/2015,N,1,1
+29,Store Operations,Citi Bank  - Store Operations Division,7,N,Y,ACTIVE,7,1,Tom McKincey,10/11/2015,Tom McKincey,10/11/2015,N,1,2
+30,IT Division,Citi Bank  - IT Division Division,7,N,Y,ACTIVE,7,1,Tom McKincey,10/11/2015,Tom McKincey,10/11/2015,N,1,3
+31,Logistics,Citi Bank  - Logistics Division,7,N,Y,ACTIVE,7,1,Tom McKincey,10/11/2015,Tom McKincey,10/11/2015,Y,1,4
+32,Customer Service,Citi Bank - Customer Service,7,N,Y,ACTIVE,7,1,Tom McKincey,10/11/2015,Tom McKincey,10/11/2015,Y,1,5
+33,Corporate,Duke Energy - Corporate Division,8,Y,Y,ACTIVE,8,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,Y,1,1
+34,Store Operations,Duke Energy  - Store Operations Division,8,N,Y,ACTIVE,8,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,Y,1,2
+35,IT Division,Duke Energy  - IT Division Division,8,N,Y,ACTIVE,8,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,Y,1,3
+36,Logistics,Duke Energy  - Logistics Division,8,N,Y,ACTIVE,8,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,N,1,4
+37,Customer Service,Duke Energy - Customer Service,8,N,Y,ACTIVE,8,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,N,1,5
+38,Corporate,Comcast Cable - Corporate Division,9,Y,Y,ACTIVE,9,1,Tom McKincey,10/11/2015,Tom McKincey,10/11/2015,N,1,1
+39,Store Operations,Comcast Cable  - Store Operations Division,9,N,Y,ACTIVE,9,1,Tom McKincey,10/11/2015,Tom McKincey,10/11/2015,N,1,2
+40,IT Division,Comcast Cable  - IT Division Division,9,N,Y,ACTIVE,9,1,Tom McKincey,10/11/2015,Tom McKincey,10/11/2015,Y,1,3
+41,Logistics,Comcast Cable  - Logistics Division,9,N,Y,ACTIVE,9,1,Tom McKincey,10/11/2015,Tom McKincey,10/11/2015,Y,1,4
+42,Customer Service,Comcast Cable - Customer Service,9,N,Y,ACTIVE,9,1,Tom McKincey,10/11/2015,Tom McKincey,10/11/2015,Y,1,5
+43,Corporate,ABC - Corporate Division,10,Y,Y,ACTIVE,10,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,Y,1,1
+44,Store Operations,ABC  - Store Operations Division,10,N,Y,ACTIVE,10,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,Y,1,2
+45,IT Division,ABC  - IT Division Division,10,N,Y,ACTIVE,10,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,Y,1,3
+46,Logistics,ABC  - Logistics Division,10,N,Y,ACTIVE,10,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,Y,1,4
+47,Customer Service,ABC - Customer Service,10,N,Y,ACTIVE,10,1,Jill Wagner,10/11/2015,Jill Wagner,10/11/2015,Y,1,5

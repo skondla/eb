@@ -1,0 +1,7 @@
+Role_ID,Role_Name,Role_Description,Role_Type,Created_On,Last_Updated_on,Created_By
+1,smartAccountAdmin,Smart Account Administrator,Admin,10/10/15,10/11/15,Tom McKincey
+2,smartAccountUser,Smart Account User,User,10/10/15,10/11/15,Tom McKincey
+3,smartAccountViewer,Smart Account Viewer,Viewer,10/10/15,10/11/15,Tom McKincey
+4,virtualAccountAdmin,Virtaul Account Admin,Admin,10/10/15,10/11/15,Tom McKincey
+5,virtualAccountUser,Virtual Account User,User,10/10/15,10/11/15,Tom McKincey
+6,virtualAccountViewer,Virtual Account Viewer,Viewer,10/10/15,10/11/15,Tom McKincey

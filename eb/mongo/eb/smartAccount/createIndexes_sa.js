@@ -1,0 +1,12 @@
+db.smartAccount.createIndex({Smart_Account_ID:1, unique:true})
+db.virtualAccount.createIndex({Virtual_Account_ID:1,unique:true})
+db.roles.createIndex({Role_ID:1,unque:true})
+db.users.createIndex({User_ID:1,unique:true})
+db.userRole.createIndex({User_Role_ID:1, unique:true})
+db.userRole.createIndex({User_ID:1})
+db.userRole.createIndex({Role_ID:1})
+db.resourceMaster.createIndex({Resource_ID:1,unique:true})
+db.roleResource.createIndex({Role_Resource_ID:1,unique:true})
+db.roleResource.createIndex({Role_ID:1})
+db.roleResource.createIndex({Resource_ID:1})
+
