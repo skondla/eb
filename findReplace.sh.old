@@ -1,3 +1,0 @@
-#!/bin/bash
-find ./ -type f -exec sed -i -e 's/skondla@cisco.com/skondla@cisco.com/g' {} \;
-find . -name "*.*" | xargs grep "skondla@cisco.com"
